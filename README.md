@@ -5,4 +5,4 @@ Collect :briqs are construction blocks stored on the blockchain. You can use the
 
 Build :Assemble your briqs to create NFTs. These NFT are called sets..
 
-Play: 
+Play: Sets are highly interoperable NFTs. Carry them around with you to the nearest metaverse.
